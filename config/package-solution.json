@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "pn-p-property-field-collection-data-client-side-solution",
+    "id": "4afc8528-774b-4395-b0b5-31fcb2501ba5",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.19.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "pn-p-property-field-collection-data description"
+      },
+      "longDescription": {
+        "default": "pn-p-property-field-collection-data description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "pn-p-property-field-collection-data Feature",
+        "description": "The feature that activates elements of the pn-p-property-field-collection-data solution.",
+        "id": "543187ed-8cfb-48e9-ac18-9ba772ec0c2f",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/pn-p-property-field-collection-data.sppkg"
+  }
+}
